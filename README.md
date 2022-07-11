@@ -21,17 +21,20 @@
 
 <h3> Exposed to </h3>
 <img align="left" width="36px" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" />
+<img align="left" width="36px" title="SWI-Prolog" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" />
 <img align="left" width="36px" title="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-plain.svg" />
 <img align="left" width="36px" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" width="36px" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" width="36px" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" width="36px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" width="36px" title="THREEjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+<img align="left" width="36px" title="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </br>
 <h3> Currently trying out </h3>
+<img align="left" width="36px" title="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+<!--
 <img align="left" width="36px" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" width="36px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" width="36px" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
-<img align="left" width="36px" title="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-
+-->
 
