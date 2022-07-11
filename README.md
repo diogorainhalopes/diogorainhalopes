@@ -29,9 +29,9 @@
 <img align="left" width="36px" title="THREEjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 </br>
 <h3> Currently trying out </h3>
-<img align="left" width="36px" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" width="36px" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" width="36px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" width="36px" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+<img align="left" width="36px" title="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
 
