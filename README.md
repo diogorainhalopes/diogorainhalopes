@@ -29,7 +29,10 @@
 <img align="left" width="26px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" width="26px" title="THREEjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" width="26px" title="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" width="26px" title="gRPC" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" />
+
 </br>
+
 <h3> Currently trying out </h3>
 <img align="left" width="26px" title="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <!--
