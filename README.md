@@ -6,9 +6,9 @@
 <img align="left" width="26px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" width="26px" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="26px" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-
 <img align="left" width="26px" title="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" width="26px" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" width="26px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" width="26px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </br>
 
@@ -39,5 +39,5 @@ img align="left" width="26px" title="Azure" src="https://cdn.jsdelivr.net/gh/dev
 
 <h3> Currently trying out </h3>
 <img align="left" width="26px" title="Neovim" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
-
+<img align="left" width="26px" title="Qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 
