@@ -36,8 +36,6 @@ img align="left" width="26px" title="Azure" src="https://cdn.jsdelivr.net/gh/dev
 <img align="left" width="26px" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" width="26px" title="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" width="26px" title="Neovim" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
--->
-
 <h3> Currently trying out </h3>
 <img align="left" width="26px" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-
+-->
